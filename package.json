@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "interview exercises for JavaScript",
   "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:cAhmad/javascript-add.git"
+  },
   "scripts": {
     "start": "node app/index.js",
     "test": "jasmine"
