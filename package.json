@@ -1,0 +1,16 @@
+{
+  "name": "javascript-add",
+  "version": "1.0.0",
+  "description": "interview exercises for JavaScript",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "jasmine"
+  },
+  "author": "Ahmad",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
